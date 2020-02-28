@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mm-entity/mmentity.iml" filepath="$PROJECT_DIR$/mm-entity/mmentity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-repo/mmrepo.iml" filepath="$PROJECT_DIR$/mm-repo/mmrepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-service/mmservice.iml" filepath="$PROJECT_DIR$/mm-service/mmservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-web/mmweb.iml" filepath="$PROJECT_DIR$/mm-web/mmweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mulitModel.iml" filepath="$PROJECT_DIR$/mulitModel.iml" />
+    </modules>
+  </component>
+</project>
